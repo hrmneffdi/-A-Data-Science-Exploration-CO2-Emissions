@@ -1,4 +1,5 @@
 # Eksplorasi Emisi CO2 : Pendekatan Data Science untuk Analisis Dampak Lingkungan
+![Gambar Ilustrasi](https://github.com/hrmneffdi/-A-Data-Science-Exploration-CO2-Emissions/blob/main/image_fixx.jpeg)
 ## Pendahuluan
 
 Perubahan iklim akibat akumulasi emisi CO2 memiliki dampak lingkungan yang signifikan, termasuk pemanasan global, kenaikan permukaan laut, perubahan pola cuaca, dan gangguan ekosistem. Proyek analisis emisi CO2 ini menggunakan pendekatan Data Science untuk mengidentifikasi tren, pola, serta solusi potensial dalam mengurangi emisi CO2. Analisis dilakukan pada dataset yang mencakup variabel kendaraan dan faktor terkait untuk memberikan wawasan mendalam mengenai kontribusi emisi CO2 dari sektor kendaraan dan merumuskan rekomendasi penting untuk pengurangan dampak lingkungan yang merugikan.
