@@ -125,15 +125,15 @@ Dalam analisis ini, kami telah melakukan serangkaian uji asumsi yang bertujuan u
 
 a. **Uji Linearitas**: Hasil analisis menunjukkan bahwa mayoritas variabel numerik memiliki hubungan positif dengan variabel target, dengan pengecualian variabel "fuel consumption mpg". Ini menggambarkan bahwa sebagian besar variabel numerik memainkan peran penting dalam mempengaruhi variabel target. Namun, perlu diperhatikan bahwa adanya hubungan non-linear pada variabel "fuel consumption mpg" mungkin memerlukan pendekatan analisis yang lebih cermat, mungkin dengan mempertimbangkan model non-linear atau transformasi.<br>
 
-![Uji Indepedensi]()
+![Uji Indepedensi](https://github.com/hrmneffdi/-A-Data-Science-Exploration-CO2-Emissions/blob/main/uji_indepedensi.png)
 
 b. **Uji Independensi**: Hasil menunjukkan bahwa plot residual tidak mengindikasikan pola tertentu, menggambarkan bahwa asumsi independensi antara residual terpenuhi. Hal ini menunjukkan bahwa setelah mempertimbangkan variabel independen, tidak ada tren atau pola yang jelas yang masih tersisa dalam residual.<br>
 
-![Uji Homokedastisitas]()
+![Uji Homokedastisitas](https://github.com/hrmneffdi/-A-Data-Science-Exploration-CO2-Emissions/blob/main/uji_homokedastisitas.png)
 
 c. **Uji Homoskedastisitas**: Pengamatan atas plot residual mengindikasikan adanya heteroskedastisitas, di mana variasi residual tidak merata di sepanjang rentang nilai prediksi. Fakta ini mungkin menunjukkan bahwa model regresi memiliki prediksi yang kurang konsisten dalam berbagai tingkat nilai prediksi. Untuk mengatasi hal ini, kami merekomendasikan eksplorasi lebih lanjut tentang faktor-faktor yang mungkin mempengaruhi variabilitas residual.<br>
 
-![Uji Normalitas]()
+![Uji Normalitas](https://github.com/hrmneffdi/-A-Data-Science-Exploration-CO2-Emissions/blob/main/uji_normalitas.png)
 
 d. **Uji Normalitas**: Analisis terhadap distribusi residual mengindikasikan kemiripan dengan kurva normal, meskipun terdapat beberapa penyimpangan. Walaupun begitu, perlu diingat bahwa hasil ini lebih baik dikonfirmasi dengan uji statistik yang lebih khusus seperti uji Kolmogorov-Smirnov atau uji Shapiro-Wilk. Asumsi normalitas ini penting untuk dipenuhi guna memastikan validitas hasil analisis regresi.
 
